@@ -1,6 +1,6 @@
 name: jsonable_object
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
+description: A micro plugin that displays interfaces for creating json from an object instance, and building an object instance from a json
+version: 1.0.2
 homepage: https://github.com/RafaelSilvaPereira/jsonable_object
 
 environment:
